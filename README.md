@@ -17,6 +17,9 @@
   
 ## 📸 Screenshots (ตัวอย่างหน้าเว็บ)
 <img width="2535" height="1251" alt="image" src="https://github.com/user-attachments/assets/9fb688c1-0a7c-470c-b246-801e9307d206" />
+(ตัวอย่างหน้าเว็บ มือถือ)
+<img width="605" height="1249" alt="image" src="https://github.com/user-attachments/assets/00a8da27-a912-4035-8e38-3a0a4ce38a5f" />
+
 
 ## 🚀 Getting Started (วิธีรันโปรเจคในเครื่อง)
 1. **Clone the repository**
