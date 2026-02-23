@@ -1,16 +1,24 @@
-# React + Vite
+# 🚀 React Minimal Landing Page 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+เว็บไซต์หน้าเดียว (Landing Page) ที่เน้นความสวยงาม ทันสมัย และรองรับการแสดงผลทุกหน้าจอ (Responsive Design) พัฒนาด้วย React.js
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features (จุดเด่นของโปรเจค)
+- **Modern UI/UX**: ดีไซน์สะอาดตา ใช้งานง่าย
+- **Responsive Design**: รองรับการใช้งานทั้งบน มือถือ, แท็บเล็ต และคอมพิวเตอร์
+- **Optimized Performance**: โหลดหน้าเว็บรวดเร็วด้วยการจัดการไฟล์สไตล์ที่ดี
+- **Reusable Components**: โครงสร้างโค้ดแยกเป็นส่วนๆ (Components) ง่ายต่อการแก้ไขและขยายต่อ
 
-## React Compiler
+## 🛠️ Tech Stack (เครื่องมือที่ใช้)
+- **Framework**: [React.js]
+- **Styling**: Tailwind CSS 
+- **Icons**: React Icons
+  
+## 📸 Screenshots (ตัวอย่างหน้าเว็บ)
+<img width="2535" height="1251" alt="image" src="https://github.com/user-attachments/assets/9fb688c1-0a7c-470c-b246-801e9307d206" />
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Getting Started (วิธีรันโปรเจคในเครื่อง)
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/poolpool01/Minimal-Landing-Page-Design-.git
